@@ -1,6 +1,5 @@
 # Hi 👋 I'm Rifat
 
-💻 Aspiring Software Engineer  
 📍 Dhaka, Bangladesh  
 
 ---
